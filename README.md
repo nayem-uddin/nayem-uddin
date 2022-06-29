@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @nayem-uddin
 - 👀 I’m interested in MATLAB and microcontroller
-- 🌱 I’m currently learning webpage designing and developing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 nayem-uddin/nayem-uddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
