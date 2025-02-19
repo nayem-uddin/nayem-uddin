@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nayem-uddin
 - 👀 I’m interested in Software Engineering
-- To see my portfolio, click on the link below.
+- To see my portfolio, click on the link below.  
   https://nayem-uddin.github.io/portfolio/
 
 <!---
